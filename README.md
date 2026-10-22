@@ -1,9 +1,9 @@
 ## 💫 About Me
 
-💻 Undergraduate student in **Electronics and Telecommunications at Hanoi University of Science and Technology (HUST).**
-🚀 Researcher at Future Internet Lab: Focusing on **5G/6G Network Security and Optimization.**
-🧠 Working with **Machine Learning, Deep Learning, etc. models.**
-🛠️ Passionate about **building automation tools, scripts, and embedded systems.**
+- 💻 Undergraduate student in Electronics and Telecommunications at **Hanoi University of Science and Technology (HUST)**.
+- 🚀 Researcher at Future Internet Lab: Focusing on **5G/6G Network Security and Optimization**.
+- 🧠 Working with **Machine Learning, Deep Learning, etc.** models.
+- 🛠️ Passionate about building automation tools, scripts, and embedded systems.
 
 <br>
 
