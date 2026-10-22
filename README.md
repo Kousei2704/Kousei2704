@@ -1,6 +1,6 @@
 ## 💫 About Me
 
-- 💻 Sinh viên hệ SIE ngành Điện tử Viễn thông tại **Đại học Bách Khoa Hà Nội (HUST)**.
+- 💻 Sinh viên ngành Điện tử Viễn thông tại **Đại học Bách Khoa Hà Nội (HUST)**.
 - 🚀 Đang nghiên cứu tại Future Internet Lab: Tập trung vào **5G/6G Network Security** và tối ưu truyền dẫn.
 - 🧠 Đang làm việc với các mô hình **Machine Learning, Deep Learning, ...**
 - 🛠️ Thích xây dựng các công cụ tự động hóa, scripts và hệ thống nhúng.
